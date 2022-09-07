@@ -1,5 +1,5 @@
 syntax enable
-colorscheme murphy
+colorscheme industry
 
 set number relativenumber
 set nocompatible
